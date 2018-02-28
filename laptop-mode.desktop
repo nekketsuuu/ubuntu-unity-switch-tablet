@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Laptop Mode
+Icon=/usr/share/icons/suru/devices/scalable/computer-laptop-symbolic.svg
+Exec=/usr/local/bin/laptop-mode.sh

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Tablet Mode
+Icon=/usr/share/icons/suru/devices/scalable/input-tablet-symbolic.svg
+Exec=/usr/local/bin/tablet-mode.sh
